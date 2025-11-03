@@ -132,5 +132,3 @@ Feel free to use, modify, and distribute.
 ---
 
 ⭐ *If you like this project, don’t forget to star the repo!*
-
-```
