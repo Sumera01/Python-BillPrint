@@ -124,11 +124,7 @@ Feel free to use, modify, and distribute.
 ---
 
 ## 👤 Contact
-
-**Author:** Sumaira
-**Course:** 2nd Year Computer Science Engineering
 **GitHub:** [Sumera01](https://github.com/Sumera01)
-
 ---
 
 ⭐ *If you like this project, don’t forget to star the repo!*
