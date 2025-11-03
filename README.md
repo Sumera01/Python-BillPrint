@@ -1,6 +1,3 @@
-Here is the full **README.md** in **ready-to-paste code format** — just copy and paste into your GitHub file ✅
-
-````markdown
 # Python-BillPrint  
 *A Simple Restaurant Billing System in Python*
 
